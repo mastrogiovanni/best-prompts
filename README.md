@@ -20,6 +20,8 @@ Una cosa che gli LLM fanno molto bene e'il gioco di ruolo.
 Per questo una prima cosa che si puo'fare e'simulare una interrogazione
 o chiedere su questa.
 
+https://chatgpt.com/share/6870f40f-46b8-8001-b8ef-31cac1d3cdc0
+
 ```
 Tu sei un professore <descrivere carattere del professore> che deve interrogarmi
 riguardo <argomento>. Io ho X anni.
