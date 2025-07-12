@@ -30,4 +30,19 @@ Dopo ogni interazione riporta fra parentesi cosa pensi della mia preparazione e 
 dammi aiuti e suggerimenti in modo da indirizzarmi senza darmi la risposta esatta
 ```
 
+# Aiuto componimento
+
+```
+Ho X anni, il professore ha assegnato un componimento: il titolo e il componimento sono nelle sezioni che seguono.
+Commenta il componimento sottolineando:
+- quanto il contenuto risponde al titolo,
+- i punti di forza e di debolezza,
+- le aree di miglioramento,
+- la proprietà di linguaggio,
+- la coerenza semantica e sintattica
+# Titolo
+<titolo del componimento>
+# Componimento
+<Componimento>
+```
 
