@@ -32,6 +32,11 @@ dammi aiuti e suggerimenti in modo da indirizzarmi senza darmi la risposta esatt
 
 # Aiuto componimento
 
+Un LLM può semplicemente scrivere un componimento.
+La problematica è che i componimenti sono privi di anima e carattere.
+L'idea di base è invece esprimere il componimento e le proprie idee, le proprie emozioni
+in prima persona e chiedere all'LLM invece di correggere i punti deboli o scritti male.
+
 ```
 Ho X anni, il professore ha assegnato un componimento: il titolo e il componimento sono nelle sezioni che seguono.
 Commenta il componimento sottolineando:
